@@ -4,4 +4,4 @@ pytest-html==4.1.1
 pytest-xdist==3.3.1
 webdriver-manager==4.0.1
 allure-pytest==2.13.2
-Pillow==10.1.0
+Pillow==13.0.0
